@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @girishthedeveloper
+- 👋 Hi, I’m @developbygirish
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Backend technologies like nodeJS, mongoDB, expressJS.
 - 💞️ I’m looking to collaborate on making web projects and to make learning easy by sharing our throughts on web development.
